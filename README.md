@@ -36,7 +36,10 @@ This project is aimed at designing a modern, intuitive user interface for a Tea 
 ### Cart
 ![Salls](https://github.com/karindragimhan49/UI-UX--Figma/blob/93c031a3cc13a3ccf6a2d0b43f811dffb038e03e/MacBook%20Pro%2014_%20-%209.png)
 
-*Add more screenshots as needed*
+### Dashboard
+![Sall](https://github.com/karindragimhan49/UI-UX--Figma/blob/09685e6e627b264a088b10a5be1604f79aad75f1/MacBook%20Pro%2014_%20-%206.png)
+![Sll](https://github.com/karindragimhan49/UI-UX--Figma/blob/09685e6e627b264a088b10a5be1604f79aad75f1/MacBook%20Pro%2014_%20-%205.png)
+
 
 ---
 
@@ -64,13 +67,7 @@ This project is aimed at designing a modern, intuitive user interface for a Tea 
 ## 🧑‍💻 About the Designer  
 **Karindra Gimhan** – BSc(Hons) Information Technology graduate with a passion for UI/UX design and web development.
 
----
 
-## 📧 Contact  
-Feel free to reach out:  
-- **Email**: [karindra@example.com](mailto:karindra@example.com)  
-- **LinkedIn**: [Karindra Gimhan](https://linkedin.com/in/karindragimhan)  
-- **GitHub**: [karindragimhan49](https://github.com/karindragimhan49)  
 
 ---  
 *This project is open for collaboration and feedback!* 🚀
