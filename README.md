@@ -23,14 +23,18 @@ This project is aimed at designing a modern, intuitive user interface for a Tea 
 
 ## 📸 Screenshots  
 
-### Dashboard  
+### Home  
 ![Dashboard](https://github.com/karindragimhan49/UI-UX--Figma/blob/9de6aad4988a5dc25e3b72b2dbb7155eeae4c819/Frame%205.png)  
 
-### Inventory Management  
-![Inventory](path/to/your/inventory-image.jpg)  
+### Shop 
+![Inventory](https://github.com/karindragimhan49/UI-UX--Figma/blob/93c031a3cc13a3ccf6a2d0b43f811dffb038e03e/MacBook%20Pro%2014_%20-%208%20(1).png)  
 
-### Sales and Orders  
-![Sales](path/to/your/sales-image.jpg)  
+### Signup & Signin  
+![Sales](https://github.com/karindragimhan49/UI-UX--Figma/blob/93c031a3cc13a3ccf6a2d0b43f811dffb038e03e/MacBook%20Pro%2014_%20-%203%20(1).png) 
+![Sles](https://github.com/karindragimhan49/UI-UX--Figma/blob/93c031a3cc13a3ccf6a2d0b43f811dffb038e03e/MacBook%20Pro%2014_%20-%202.png)
+
+### Cart
+![Salls](https://github.com/karindragimhan49/UI-UX--Figma/blob/93c031a3cc13a3ccf6a2d0b43f811dffb038e03e/MacBook%20Pro%2014_%20-%209.png)
 
 *Add more screenshots as needed*
 
