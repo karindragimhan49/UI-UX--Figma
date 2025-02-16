@@ -24,7 +24,7 @@ This project is aimed at designing a modern, intuitive user interface for a Tea 
 ## 📸 Screenshots  
 
 ### Dashboard  
-![Dashboard](Frame 5.png)  
+![Dashboard](https://github.com/karindragimhan49/UI-UX--Figma/blob/9de6aad4988a5dc25e3b72b2dbb7155eeae4c819/Frame%205.png)  
 
 ### Inventory Management  
 ![Inventory](path/to/your/inventory-image.jpg)  
