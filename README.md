@@ -1,4 +1,4 @@
-# Tea Factory UI/UX Project
+# LeafLink UI/UX Project
 
 ---
 
