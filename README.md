@@ -17,7 +17,7 @@ This project is aimed at designing a modern, intuitive user interface for a Tea 
 
 ---
 
-## 🔗 [View the Project on Figma](https://figma.com/community/link-to-your-project)  
+## 🔗 [View the Project on Figma](https://www.figma.com/community/file/1472887972340011788)  
 
 ---
 
