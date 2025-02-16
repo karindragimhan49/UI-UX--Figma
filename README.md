@@ -24,7 +24,7 @@ This project is aimed at designing a modern, intuitive user interface for a Tea 
 ## 📸 Screenshots  
 
 ### Dashboard  
-![Dashboard](path/to/your/dashboard-image.jpg)  
+![Dashboard](Frame 5.png)  
 
 ### Inventory Management  
 ![Inventory](path/to/your/inventory-image.jpg)  
